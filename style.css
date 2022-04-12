@@ -7,12 +7,12 @@
   height: 870px;
   justify-content: center;
   align-items: center;
-  background: #333944;
+  background: #021b4b;
 }
 .box{
-  width: 970px;
-  height: 850px;
-  background: #CCC;
+  width: 980px;
+  height: 860px;
+  background:white;
   overflow: hidden;
 }
 .box img{
